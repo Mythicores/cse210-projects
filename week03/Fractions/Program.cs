@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // Ensuring functions work
+        Console.Clear();
         Fraction defaults = new Fraction();
         Console.WriteLine($"Top default: {defaults.GetTopNumber()} Bottom default: {defaults.GetBottomNumber()}");
         Fraction wholeNumber = new Fraction(5);
