@@ -54,7 +54,7 @@ public class Scripture
         int randomNumber = random.Next(listAmount);
         return randomNumber;
     }
-    public void HideRandomNumber()
+    public void HideRandomWord()
     {
         int randomAmount = ChooseRandomNumber();
         for (int i = 0; i < randomAmount; i++)

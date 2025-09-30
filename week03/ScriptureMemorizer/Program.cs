@@ -17,7 +17,7 @@ class Program
             action = Console.ReadLine();
             if (action == "")
             {
-                firstVision.HideRandomNumber();
+                firstVision.HideRandomWord();
             }
             if (firstVision.AreAllhidden() == true)
             {
