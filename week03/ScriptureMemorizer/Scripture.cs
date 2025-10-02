@@ -4,7 +4,6 @@ using System.Security.Cryptography;
 public class Scripture
 {
     private List<Word> _wordList;
-    private string _reference;
     private string _fullScripture;
 
     public Scripture()

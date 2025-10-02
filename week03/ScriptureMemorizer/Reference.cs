@@ -1,6 +1,5 @@
 public class Reference
 {
-    string _scripture;
     string _book;
     int _chapter;
     int _verse;
