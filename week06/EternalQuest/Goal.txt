@@ -1,0 +1,3 @@
+Score:10
+Food|Eat something from the kitchen|Simple Goal|10
+Read scripture|Read the scriptures daily|Eternal Goal|50
